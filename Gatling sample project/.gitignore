@@ -1,0 +1,44 @@
+# Ignore ALL .png files
+*.png
+
+# Ignore ALL .log files
+*.log
+
+# Ignore ALL .classpath files
+*.classpath
+
+# Ignore ALL .csv files
+*.csv
+
+# Ignore ALL .html files
+*.html
+
+# Ignore ALL .project files
+.project
+
+# Ignore YAML files
+*.yml
+
+# Ignore ALL files in ANY directory named target
+target/
+
+# Ignore ALL files in ANY directory named idea
+.idea/
+
+# Ignore ALL files in ANY directory named test-output
+test-output/
+
+# Ignore ALL files in ANY directory named apt_generated_tests
+.apt_generated_tests/
+
+# Ignore ALL files in ANY directory named vs
+.vs/
+
+# Ignore ALL files in ANY directory named settings
+.settings/
+
+# Ignore ALL files in ANY directory named screenshots
+screenshots/
+
+# Ignore ALL files in ANY directory named apt_generated
+.apt_generated/
